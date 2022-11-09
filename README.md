@@ -1,6 +1,6 @@
 # Full Stack E-Commerce Project using MERN
 
-Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)
+Live Link - [Bookies](https://bookztron-dev-branch.netlify.app/)
 
 ## Available Scripts
 
@@ -66,7 +66,7 @@ You may also see any lint errors in the console.
 
 ## You can report issues on this project using Github issue 
 1. You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
-
+<!-- 
 ## Screenshots
 
 ### Home Page
@@ -94,4 +94,5 @@ You may also see any lint errors in the console.
 ![](https://github.com/Naman-Saxena1/Bookztron-E-Commerce_Book_Store/blob/development/src/Assets/Screenshots/Bookztron-Razorpay_Payment_Integration.PNG)
 
 ### Orders Page
-![](https://github.com/Naman-Saxena1/Bookztron-E-Commerce_Book_Store/blob/development/src/Assets/Screenshots/Bookztron-OrdersPage-1.PNG)
+![](https://github.com/Naman-Saxena1/Bookztron-E-Commerce_Book_Store/blob/development/src/Assets/Screenshots/Bookztron-OrdersPage-1.PNG) -->
+# Bookies
