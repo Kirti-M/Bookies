@@ -1,6 +1,7 @@
 # Full Stack E-Commerce Project using MERN
 
-Live Link - [Bookies](https://bookies-api.herokuapp.com/)
+Live Link - 
+[Bookies](https://bookies-api.herokuapp.com/)
 
 ## Available Scripts
 
