@@ -71,28 +71,28 @@ You may also see any lint errors in the console.
 ## Screenshots
 
 ### Home Page
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-HomePage-1.PNG)
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-HomePage-2.PNG)
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-HomePage-3.PNG)
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/img1.jpeg)
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/img2.jpeg)
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/img3.jpeg)
 
 ### Product Listing Page
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-ProductListingPage-1.PNG)
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/img4.jpeg)
 
 ### User Authentication Pages
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-SignupPage-1.PNG)
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-LoginPage-1.PNG)
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/img6.jpeg)
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/img5.jpeg)
 
 ### Single Product Page
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-SingleProductPage-1.PNG)
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/img7.jpeg)
 
 ### Wishlist Page
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-WishlistPage-1.PNG)
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/img8.jpeg)
 
 ### Cart Page
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-CartPage-1.PNG)
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/img9.jpeg)
 
-### Razorpay integration
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-Razorpay_Payment_Integration.PNG)
+<!-- ### Razorpay integration
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-Razorpay_Payment_Integration.PNG) -->
 
 ### Orders Page
-![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/Bookztron-OrdersPage-1.PNG)
+![](https://github.com/Kirti-M/Bookies/blob/main/src/Assets/Screenshots/img10.jpeg)
